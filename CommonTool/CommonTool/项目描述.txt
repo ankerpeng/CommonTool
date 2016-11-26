@@ -1,0 +1,13 @@
+﻿
+项目描述文档
+
+名称										功能
+--CommonTool								程序集名称
+   |--ExcelTool								Excel相关操作
+   |--NetWorkTool							网络相关操作
+   |--PdfTool								Pdf相关操作
+   |--Upload								上传功能
+   |--Download								下载功能
+
+
+
